@@ -109,9 +109,10 @@ Particle-Based Simulations</title>
           </person_name>
           <person_name sequence="additional"
                        contributor_role="author">
-            <given_name>Timothy</given_name>
+            <given_name>Timothy C.</given_name>
             <surname>Germann</surname>
-          </person_name>
+            <ORCID>https://orcid.org/0000-0002-6813-238X</ORCID>
+         </person_name>
           <person_name sequence="additional"
                        contributor_role="author">
             <given_name>James</given_name>
